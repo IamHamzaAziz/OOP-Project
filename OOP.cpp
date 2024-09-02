@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// Structure for customer details
 struct CustomerDetails
 {
     string name;
